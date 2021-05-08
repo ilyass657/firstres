@@ -1,0 +1,96 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Guid 1",
+        "image": "https://silentbet.com/wp-content/uploads/2020/04/pin-up-live-casino.png"
+      },
+      {
+        "title": "Guid 2",
+        "image": "https://silentbet.com/wp-content/uploads/2020/04/pin-up-live-casino.png"
+      },
+      {
+        "title": "Guid 3",
+        "image": "https://silentbet.com/wp-content/uploads/2020/04/pin-up-live-casino.png"
+      },
+      {
+        "title": "Guid 4",
+        "image": "https://silentbet.com/wp-content/uploads/2020/04/pin-up-live-casino.png"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "normal",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://kazino-pinup.com/wp-content/uploads/2019/10/pin-up-casino.jpg",
+        "text": "Introducing the new era of social slots! In the Pin-Up Casino application, you can spin the most popular slots absolutely free! Just enter the game and start playing! We made sure that you have something to start playing with! You have 10,000 points on your balance! Don't be afraid to spend it! If you lose, open the wheel of luck! Nobody left there empty-handed! You will definitely get lucky!",
+        "isNative": "false"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://kazino-pinup.com/wp-content/uploads/2019/10/pin-up-casino.jpg",
+        "text": "Immerse yourself in the unique atmosphere of social slots in our application! We have made the most convenient interface for you. It's even more pleasant to watch your winnings! Watch beautiful animation of pulsating symbols after each scroll!",
+        "isNative": "false"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://kazino-pinup.com/wp-content/uploads/2019/10/pin-up-casino.jpg",
+        "text": "The last step is to download the game from the official website without interruption and very smoothly.",
+        "isNative": "false"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "true","link_title": "Download","setLink": "https://play.google.com/store/apps/details?id=com.wombot.toopwombo",
+        "image_link": "https://kazino-pinup.com/wp-content/uploads/2019/10/pin-up-casino.jpg",
+        "text": "Download the app from here",
+        "isNative": "false"
+      }
+    ]
+  }
+}
