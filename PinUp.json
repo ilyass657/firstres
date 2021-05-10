@@ -40,7 +40,7 @@
     "content1": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "normal",
+        "color": "#1e2223","style": "normal",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
@@ -54,7 +54,7 @@
     "content2": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+        "color": "#1e2223","style": "blood",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
@@ -68,7 +68,7 @@
     "content3": [
       {
         "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
+        "color": "#1e2223","style": "blood",
         "gravity": "left",
         "left": "10",
         "text_size": "25",
